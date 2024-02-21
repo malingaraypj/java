@@ -1,0 +1,1 @@
+ student S[]=new student[3];
